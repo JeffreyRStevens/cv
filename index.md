@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Jeffrey R. Stevens' CV
+---
 # Jeffrey R. Stevens
 Department of Psychology • 
 Center for Brain, Biology & Behavior • 
