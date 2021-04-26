@@ -3,8 +3,8 @@ layout: cv
 title: Jeffrey R. Stevens' CV
 ---
 # Jeffrey R. Stevens
-Department of Psychology • 
-Center for Brain, Biology & Behavior • 
+Department of Psychology •
+Center for Brain, Biology & Behavior •
 University of Nebraska-Lincoln
 
 <div id="webaddress">
@@ -18,7 +18,7 @@ University of Nebraska-Lincoln
 <!-- fa are fontawesome, ai are academicons -->
 * <i class="fa fa-envelope"></i> <a href="mailto:jeffrey.r.stevens@gmail.com">jeffrey.r.stevens@gmail.com</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/JeffStevensADML">JeffStevensADML</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/jstevens5">jstevens5</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/jeffreyrstevens">jeffreyrstevens</a><br />
 * <i class="ai ai-osf"></i> <a href="https://osf.io/4nx8b/">Open Science Framework</a><br />
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0003-2375-1360">ORCiD</a>
 * <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?hl=en&user=3KRfbWUAAAAJ">Google Scholar</a>
@@ -51,10 +51,10 @@ Courtesy faculty, School of Biological Sciences, University of Nebraska-Lincoln
 `2013-`
 Resident faculty, Center for Brain, Biology & Behavior, University of Nebraska-Lincoln
 
-`2017-` 
+`2017-`
 Associate professor, Department of Psychology, University of Nebraska-Lincoln
 
-`2020-` 
+`2020-`
 Susan J. Rosowski associate professor, Department of Psychology, University of
 Nebraska-Lincoln
 
@@ -68,7 +68,7 @@ __Baylor University__ B.S. Majors: Biology, Environmental Studies; Minor: Politi
 __University of Minnesota__ Ph.D. Ecology, Evolution, and Behavior, Minor: Psychology (supervisor: David W. Stephens). Dissertation: _The behavioral ecology of food sharing_.
 
 
-## Publications 
+## Publications
 
 \*undergraduate or graduate student author, \#invited journal article
 
@@ -354,7 +354,7 @@ York: Springer.
 
 **Stevens, J.R.**, Marewski, J.N., Schooler, L.J., & Gilby, I.C. (2016).
 Reflections of the social environment in chimpanzee memory: Applying
-rational analysis beyond humans. *Royal Society Open Science*, *3*, 160293. [doi:10.1098/rsos.160293](http://dx.doi.org/10.1098/rsos.160293) 
+rational analysis beyond humans. *Royal Society Open Science*, *3*, 160293. [doi:10.1098/rsos.160293](http://dx.doi.org/10.1098/rsos.160293)
 
 `2017`
 \*Duque, J.F. & **Stevens, J.R.** (2017). Cylinder task. In: J. Vonk
@@ -1035,7 +1035,7 @@ Nebraska (2013--2016, 2018--2020)
 Instructor, *Animal Learning & Cognition, Psyc 461/861*---University of
 Nebraska (2019)
 
-## Summer Schools and Workshops 
+## Summer Schools and Workshops
 
 `2007` "Evolutionary perspectives on decision making", International Max
 Planck Research School: LIFE Seminar
@@ -1111,7 +1111,7 @@ Nebraska-Lincoln---Behavioral Neuroscience
 
 ### Undergraduate
 
-`2003-2004` 
+`2003-2004`
 Elizabeth Hallinan---"Temporal discounting in two New World primates,
 the cotton-top tamarin (*Saguinus oedipus*) and the common marmoset
 (*Callithrix jacchus*).\" (senior thesis, Mind, Brain, and Behavior
