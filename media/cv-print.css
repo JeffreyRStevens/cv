@@ -54,7 +54,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 9pt;
+	font-size: 12pt;
 	line-height: 1.35em;
 	font-family: "Open sans", sans-serif;
 	/*margin-top: 1em;
@@ -71,14 +71,14 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 70%;
+	font-size: 90%;
 	font-family: Menlo, monospace,s ans-serif;
 	color: #444;
 }
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -15%;
 }
 
 
@@ -110,7 +110,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #222;
+	color: #1D49A0;
 	text-align: left;
 	font-size: 2.2em;
 	line-height: 1em;
@@ -129,12 +129,11 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #1D49A0;
 	margin-top: 1em;
 	position: relative;
 	top: 1.5em;
-	text-align: right;
-	width: 18%;
+	text-align: left;
 }
 
 h2+p {
@@ -148,12 +147,12 @@ h3 {
 	color: #444;
 	position: relative;
 	top: 1.6em;
-	text-align: right;
-	width: 20%;
+	text-align: left;
+	width: 10%;
 }
 
 a {
-	color: inherit;
+	color:inherit;
 	text-decoration:none
 }
 
@@ -164,10 +163,9 @@ a:hover {
 #webaddress {
  	margin-top: 0em;
 	position: relative;
-	left: 28%;
-	color: #ccc;
+	color: #1D49A0;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 90%;
 }
 
 #webaddress a {
@@ -175,8 +173,7 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
 }
 
 strong {
