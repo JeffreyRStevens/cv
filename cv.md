@@ -9,6 +9,8 @@ University of Nebraska-Lincoln
 <a href="https://dogcog.unl.edu">dogcog.unl.edu</a>
 </div>
 
+[PDF Version](https://jeffreyrstevens.github.io/cv/cv.pdf)
+
 ## Connect
 
 <!-- fa are fontawesome, ai are academicons -->
@@ -1215,7 +1217,7 @@ Elise Thayer--"Effects of human-animal interactions on affect and
 cognition." (Master's thesis, Dept. of Psychology, University of
 Nebraska-Lincoln)
 
-### Outreach
+## Outreach
 
 `2014` Volunteer for "Eight-Legged Encounters\" outreach exhibit at Denver
 Museum of Nature and Science
@@ -1246,7 +1248,7 @@ Museum: \"Pawsitive Psychology: Dog-Human Bonds\"
 
  Facilitator of Girl Scout Troop 20606 Animal Helpers badge
 
-### Professional Service and Development
+## Professional Service and Development
 
 `1999` Participant in TA Web Certification, TAWEB 103---Academic and
 Distributed Computing Services, Center for Teaching and Learning
