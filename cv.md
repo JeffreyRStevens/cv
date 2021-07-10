@@ -876,6 +876,14 @@ Stillwater, OK.
 performance and obedience", **Stevens, J.R.** & Bosworth, M., Canine
 Science Conference, Phoenix, AZ (poster).
 
+`2021` "Can Spot go the distance? Owners' predictions of dog impulsivity",
+**Stevens, J.R.**, Mathias, M., Herridge, M., Duvall, K., & Wolff, L.,
+Comparative Cognition Conference (virtual conference talk).
+
+"Effects of human-animal interactions on affect and cognition",
+Thayer, E.R. \& **Stevens, J.R.**,
+International Society for Anthrozoology (virtual conference talk)."
+
 ### Tutorials
 
 `2013`
