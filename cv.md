@@ -1070,6 +1070,8 @@ Nebraska (2013--2016, 2018--2020)
 Instructor, *Animal Learning & Cognition, Psyc 461/861*---University of
 Nebraska (2019)
 
+Instructor, *Data Science and Visualization in R*, Psyc 492/971*---University of Nebraska (2021)
+
 ## Summer Schools and Workshops
 
 `2007` "Evolutionary perspectives on decision making", International Max
@@ -1247,6 +1249,11 @@ at University of Nebraska State Museum
 Museum: \"Pawsitive Psychology: Dog-Human Bonds\"
 
  Facilitator of Girl Scout Troop 20606 Animal Helpers badge
+ 
+ `2021` Guest speaker at Edgerton Explorit Veterinary Camp
+ 
+ Host for Future Huskers visit
+ 
 
 ## Professional Service and Development
 
