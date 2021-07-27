@@ -73,16 +73,16 @@ __University of Minnesota__ Ph.D. Ecology, Evolution, and Behavior, Minor: Psych
 `1996`
 Do, L.H., Gooch, R.D., **Stevens, J.R.**, & Holmes, W.C. (1996). New
 county records of *Botrychium lunarioides* in Texas. *American Fern
-Journal*, *86*, 28-31. 
+Journal*, *86*, 28-31.
 [doi:10.2307/1547608](https://doi.org/10.2307/1547608)
 
 Holmes, W.C., Morgan, T.L., **Stevens, J.R.**, Gooch, R.D., & Singhurst,
-J.R. (1996). 
-[Comments on the distribution of *Botrychium lunarioides* (Ophioglossaceae) in Texas.](http://www.biodiversitylibrary.org/item/47108) 
+J.R. (1996).
+[Comments on the distribution of *Botrychium lunarioides* (Ophioglossaceae) in Texas.](http://www.biodiversitylibrary.org/item/47108)
 *Phytologia*, *80*, 280-283.
 
-Morgan, T.L., **Stevens, J.R.**, & Holmes, W.C. (1996). 
-[First report of *Wolffiella lingulata* (Lemnaceae) in western Mexico.](http://www.biodiversitylibrary.org/item/34588) 
+Morgan, T.L., **Stevens, J.R.**, & Holmes, W.C. (1996).
+[First report of *Wolffiella lingulata* (Lemnaceae) in western Mexico.](http://www.biodiversitylibrary.org/item/34588)
 *SIDA*, *17*, 289-290.
 
 `2001`
@@ -124,7 +124,7 @@ Sciences*, *8*, 60-65.
 
 **Stevens, J.R.** and Stephens, D.W. (2004). The economic basis of
 cooperation: trade-offs between selfishness and generosity. *Behavioral
-Ecology*, *15*, 255-261. 
+Ecology*, *15*, 255-261.
 [doi:10.1093/beheco/arh006](http://dx.doi.org/10.1093/beheco/arh006)
 
 `2005`
@@ -140,8 +140,8 @@ Letters*, *1*, 223-226.
 
 **Stevens, J.R.** and Hauser, M.D. (2005). Cooperative brains:
 Psychological constraints on the evolution of altruism. In S. Dehaene,
-J.-R. Duhamel, M.D. Hauser, & L.G. Rizolatti (Eds.), 
-[*From monkey brain to human brain*](http://cognet.mit.edu/book/monkey-brain-to-human-brain) 
+J.-R. Duhamel, M.D. Hauser, & L.G. Rizolatti (Eds.),
+[*From monkey brain to human brain*](http://cognet.mit.edu/book/monkey-brain-to-human-brain)
 (pp. 159-187). Cambridge, MA: MIT Press.
 
 **Stevens, J.R.**, \*Rosati, A.G., \*Ross, K.R., and Hauser,
@@ -163,7 +163,7 @@ cooperation. *Behavioural Processes*, *71*, 29-40.
 `2007`
 \*Barton, A., Mousavi, S., and **Stevens, J.R.** (2007). A
 statistical taxonomy and another "chance" for natural frequencies.
-*Behavioral and Brain Sciences*, *30*, 255-256. 
+*Behavioral and Brain Sciences*, *30*, 255-256.
 [doi:10.1017/S0140525X07001665](http://doi.org/10.1017/S0140525X07001665)
 
 \*Rosati, A.G., **Stevens, J.R.**, Hare, B., and Hauser, M.D.
@@ -182,65 +182,65 @@ trumps number: Discrimination experiments in cotton-top tamarins
 \*Heilbronner, S.R., \*Rosati, A.G., **Stevens, J.R.**, Hare,
 B., and Hauser, M.D. (2008). A fruit in the hand or two in the bush?
 Ecological pressures select for divergent risk preferences in
-chimpanzees and bonobos. *Biology Letters*, *4*, 246-249. 
+chimpanzees and bonobos. *Biology Letters*, *4*, 246-249.
 [doi:10.1098/rsbl.2008.0081](http://doi.org/10.1098/rsbl.2008.0081)
 
 McElreath, R., Boyd, R., Gigerenzer, G., Glöckner, A., Hammerstein, P.,
 Kurzban, R., Magen, S., Richerson, P., Robson, A., & **Stevens, J.R.**
 (2008). Individual decision making and the evolutionary roots of
-institutions. In C. Engel & W. Singer (Eds.), 
-[*Better than conscious? Decision making, the human mind, and implications for institutions*](https://mitpress.mit.edu/books/better-conscious). 
+institutions. In C. Engel & W. Singer (Eds.),
+[*Better than conscious? Decision making, the human mind, and implications for institutions*](https://mitpress.mit.edu/books/better-conscious).
 Ernst Strüngmann Report 1. (pp. 325-342). Cambridge, MA: MIT Press.
 
 **Stevens, J.R.** (2008). The evolutionary biology of decision making.
-In C. Engel & W. Singer (Eds.), 
-[*Better than conscious? Decision making, the human mind, and implications for institutions*](https://mitpress.mit.edu/books/better-conscious). 
+In C. Engel & W. Singer (Eds.),
+[*Better than conscious? Decision making, the human mind, and implications for institutions*](https://mitpress.mit.edu/books/better-conscious).
 Ernst Strüngmann Report 1. (pp. 285-304). Cambridge, MA: MIT Press.
 
-**Stevens, J.R.** & Stephens, D.W. (2008). Patience. 
-*Current Biology*, *18*, R11-12. 
+**Stevens, J.R.** & Stephens, D.W. (2008). Patience.
+*Current Biology*, *18*, R11-12.
 [doi:10.1016/j.cub.2007.11.021](http://doi.org/10.1016/j.cub.2007.11.021)
 
 `2009`
 \*Rosati, A.G. & **Stevens, J.R.** (2009). Rational decisions: The
 adaptive nature of context-dependence choice. In S. Watanabe, A.P.
-Blaisdell, L. Huber, & A. Young (Eds.), 
-[*Rational animals, irrational humans*](https://www.keio-up.co.jp/kup/eng/bio/16150.html) 
+Blaisdell, L. Huber, & A. Young (Eds.),
+[*Rational animals, irrational humans*](https://www.keio-up.co.jp/kup/eng/bio/16150.html)
 (pp. 101-117). Tokyo: Keio University Press.
 
 **Stevens, J.R.** and Hauser, M.D. (2009). Social interaction effects on
 reward and cognitive abilities in monkeys. In L. Squire (Ed.),
-[*Encyclopedia of neuroscience*](https://booksite.elsevier.com/brochures/ens/) 
-(pp. 45-58). Oxford: Academic Press. 
+[*Encyclopedia of neuroscience*](https://booksite.elsevier.com/brochures/ens/)
+(pp. 45-58). Oxford: Academic Press.
 
 
 \*Straubinger, N. Cokely, E.T., and **Stevens, J.R.** (2009). The
 dynamics of development: Challenges for Bayesian rationality. Commentary
-in *Behavioral and Brain Sciences*, *32*, 103-104. 
+in *Behavioral and Brain Sciences*, *32*, 103-104.
 [doi:10.1017/S0140525X09000491](http://doi.org/10.1017/S0140525X09000491)
 
 `2010`
 **Stevens, J.R.** (2010). The challenges of understanding animal minds.
-*Frontiers in Psychology*, *1*, 203. 
+*Frontiers in Psychology*, *1*, 203.
 [doi:10.3389/fpsyg.2010.00203](https://doi.org/10.3389/fpsyg.2010.00203)
 
 **Stevens, J.R.** (2010). Donor payoffs and other-regarding preferences
-in cotton-top tamarins (*Saguinus oedipus*). *Animal Cognition*, *13*, 663-670. 
+in cotton-top tamarins (*Saguinus oedipus*). *Animal Cognition*, *13*, 663-670.
 [doi:10.1007/s10071-010-0309-x](https://doi.org/10.1007/s10071-010-0309-x)
 
-**Stevens, J.R.** (2010). Intertemporal choice. In M. Breed & J. Moore (Eds.), 
-[*Encyclopedia of animal behavior*](https://www.elsevier.com/books/encyclopedia-of-animal-behavior/breed/978-0-08-045333-0) 
+**Stevens, J.R.** (2010). Intertemporal choice. In M. Breed & J. Moore (Eds.),
+[*Encyclopedia of animal behavior*](https://www.elsevier.com/books/encyclopedia-of-animal-behavior/breed/978-0-08-045333-0)
 (Vol. 2, pp. 203-208). Oxford: Academic Press.
 
 **Stevens, J.R.** (2010). Rational decision making in primates: The
 bounded and the ecological. In M.L. Platt & A.A. Ghazanfar (Eds.),
-*Primate neuroethology* (pp. 98-116). Oxford: Oxford University Press. 
+*Primate neuroethology* (pp. 98-116). Oxford: Oxford University Press.
 [doi:10.1093/acprof:oso/9780195326598.003.0006](https://doi.org/10.1093/acprof:oso/9780195326598.003.0006)
 
 **Stevens, J.R.** & Stephens, D.W. (2010). The adaptive nature of
 impulsivity. In G.J. Madden & W.K. Bickel (Eds.), *Impulsivity: The
 behavioral and neurological science of discounting* (pp. 361-387).
-Washington, D.C.: APA Press. 
+Washington, D.C.: APA Press.
 [doi:10.1037/12069-013](https://doi.org/10.1037/12069-013)
 
 `2011`
@@ -252,21 +252,21 @@ reticulata*). *Frontiers in Psychology*, *2*, 68.
 Seed, A., Clayton, N., Carruthers, P., Dickinson, A., Glimcher, P.W.,
 Güntürkün, O., Hampton, R.R., Kacelnik, A., Shanahan, M.,**Stevens,
 J.R.** & Tebbich, S. (2011). Planning, memory, and decision making. In
-R. Menzel & J. Fischer (Eds.), 
-[*Animal thinking: Contemporary issues in comparative cognition*](https://mitpress.mit.edu/books/animal-thinking). 
+R. Menzel & J. Fischer (Eds.),
+[*Animal thinking: Contemporary issues in comparative cognition*](https://mitpress.mit.edu/books/animal-thinking).
 Ernst Strüngmann Forum Report (vol. 8,
 pp. 121-147). Cambridge, MA: MIT Press.
 
 **Stevens, J.R.** (2011). Mechanisms for decisions about the future. In
-R. Menzel & J. Fischer (Eds.), 
-[*Animal thinking: Contemporary issues in comparative cognition*](https://mitpress.mit.edu/books/animal-thinking). 
+R. Menzel & J. Fischer (Eds.),
+[*Animal thinking: Contemporary issues in comparative cognition*](https://mitpress.mit.edu/books/animal-thinking).
 Ernst Strüngmann Forum Report (vol. 8,
 pp. 93-104). Cambridge, MA: MIT Press.
 
 \#**Stevens, J.R.**, \*Rosati, A.G., \*Heilbronner, S.R., &
 \*Mühlhoff, N. (2011). Waiting for grapes: Expectancy and delayed
 gratification in bonobos. *International Journal of Comparative
-Psychology*. *24*, 99-111. 
+Psychology*. *24*, 99-111.
 [https://escholarship.org/uc/item/4km2r37j](https://escholarship.org/uc/item/4km2r37j)
 
 **Stevens, J.R.**, \*Volstorf, J., Schooler, L.J., & Rieskamp, J.
@@ -281,7 +281,7 @@ ONE*, *6*, e18945.
 
 `2012`
 \*Artinger, F., \*Fleischhut, N., Levanti, V., & **Stevens,
-J.R.** (2012). [Cooperation in risky environments: decisions from experience in a stochastic social dilemma](https://cogsci.mindmodeling.org/2012/papers/0028/paper0028.pdf). 
+J.R.** (2012). [Cooperation in risky environments: decisions from experience in a stochastic social dilemma](https://cogsci.mindmodeling.org/2012/papers/0028/paper0028.pdf).
 *Proceedings of the 34th
 Conference of the Cognitive Science Society* (pp. 84-89). Austin, TX:
 Cognitive Science Society.
@@ -289,26 +289,26 @@ Cognitive Science Society.
 Gluck, K.A., McNamara, J.M., Brighton, H., Dayan, P., Kareev, Y.,
 Krause, J., Kurzban, R., Selten, R., **Stevens, J.R.**, Voelkl, B., &
 Wimsatt, W.C. (2012). Robustness in a variable environment. In P.
-Hammerstein & J.R. Stevens (Eds.), 
-[*Evolution and the mechanisms of decision making*](https://mitpress.mit.edu/books/evolution-and-mechanisms-decision-making). 
+Hammerstein & J.R. Stevens (Eds.),
+[*Evolution and the mechanisms of decision making*](https://mitpress.mit.edu/books/evolution-and-mechanisms-decision-making).
 Ernst Strüngmann Forum Report (vol. 11, pp. 195-214).
 Cambridge, MA: MIT Press.
 
-Hammerstein, P., & **Stevens, J.R.** (2012). 
-[*Evolution and the mechanisms of decision making*](https://mitpress.mit.edu/books/evolution-and-mechanisms-decision-making). 
+Hammerstein, P., & **Stevens, J.R.** (2012).
+[*Evolution and the mechanisms of decision making*](https://mitpress.mit.edu/books/evolution-and-mechanisms-decision-making).
 Ernst Strüngmann Forum Report (vol. 11).
 Cambridge, MA: MIT Press.
 
 Hammerstein, P., & **Stevens, J.R.** (2012). Six reasons to evoke
 evolution in decision theory. In P. Hammerstein & J.R. Stevens (Eds.),
-[*Evolution and the mechanisms of decision making*](https://mitpress.mit.edu/books/evolution-and-mechanisms-decision-making). 
-Ernst Strüngmann Forum Report (vol. 11, pp. 1-17). 
-Cambridge, MA: MIT Press. 
+[*Evolution and the mechanisms of decision making*](https://mitpress.mit.edu/books/evolution-and-mechanisms-decision-making).
+Ernst Strüngmann Forum Report (vol. 11, pp. 1-17).
+Cambridge, MA: MIT Press.
 
 
-Stevens, A.N.P. & **Stevens, J.R.** (2012). 
-[Animal cognition](http://www.nature.com/scitable/knowledge/library/animal-cognition-96639212). 
-*Nature Education Knowledge*, *3*, 1. 
+Stevens, A.N.P. & **Stevens, J.R.** (2012).
+[Animal cognition](http://www.nature.com/scitable/knowledge/library/animal-cognition-96639212).
+*Nature Education Knowledge*, *3*, 1.
 
 \#**Stevens, J.R.** & \*Mühlhoff, N. (2012). Intertemporal
 choice in lemurs. *Behavioural Processes*, *89*, 121-127.
@@ -325,7 +325,7 @@ Pachur, T., Schooler, L.J., & **Stevens, J.R.** (2013). When will we
 meet again? Regularities of social connectivity and their reflections in
 memory and decision making. In: R. Hertwig, U. Hoffrage, & the ABC
 Research Group (Eds.), *Simple heuristics in a social world*
-(pp. 199-224). Oxford: Oxford University Press. 
+(pp. 199-224). Oxford: Oxford University Press.
 [10.1093/acprof:oso/9780195388435.003.0007](https://doi.org/10.1093/acprof:oso/9780195388435.003.0007)
 
 \#**Stevens, J.R.** (2013). The bounds of rationality and cognitive
@@ -335,7 +335,7 @@ building blocks. *Behavioral Ecology*, *24*, 13-14.
 **Stevens, J.R.** & King, A.J. (2013). The lives of others: Social
 rationality in animals. In: R. Hertwig, U. Hoffrage, & the ABC Research
 Group (Eds.), *Simple heuristics in a social world* (pp. 409-431).
-Oxford: Oxford University Press. 
+Oxford: Oxford University Press.
 [10.1093/acprof:oso/9780195388435.003.0015](https://doi.org/10.1093/acprof:oso/9780195388435.003.0015)
 
 \#**Stevens, J.R.**, Pachur, T., & Schooler, L. J. (2013). Rational
@@ -481,21 +481,20 @@ computer-controlled treat dispenser for canine operant conditioning.
 `2021`
 \#Addessi, E., \*Tierno, V., \*Focaroli, V., \*Rossi,
 F., \*Gastaldi, S., \*De Petrillo, F., Paglieri, F., &
-**Stevens, J.R.** (2021). Are capuchin monkeys (*Sapajus spp.*)
-sensitive to lost opportunities? The role of opportunity costs in
-intertemporal choice. *Philosophical Transactions of the Royal Society
-B: Biological Sciences*, 376(1819), 20190674.
+**Stevens, J.R.** (2021). Are capuchin monkeys (*Sapajus spp.*) sensitive to lost opportunities? The role of opportunity costs in intertemporal choice.
+*Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1819), 20190674.
 [doi:10.1098/rstb.2019.0674](https://doi.org/10.1098/rstb.2019.0674)
 
 \#Goh, F. & **Stevens, J.R.** (2021). Attribute-based choice. In:
-R. Viale (Ed.), *Routledge handbook of bounded rationality*. (pp.
+R. Viale (Ed.),
+*Routledge handbook of bounded rationality*. (pp.
 242-253). Routledge.
 [doi:10.4324/9781315658353-16](https://doi.org/10.4324/9781315658353-16)
 
 Koehler, K., \*Beckford, S. E., \*Thayer, E., \*Martin, A.
 R., Boron, J. B., & **Stevens, J. R.** (2021). Exercise shifts
-hypothetical food choices towards greater amounts and more immediate
-consumption. *Nutrients*, 13(2), 347.
+hypothetical food choices towards greater amounts and more immediate consumption.
+*Nutrients*, 13(2), 347.
 [doi:10.3390/nu13020347](https://doi.org/10.3390/nu13020347)
 
 **Stevens, J.R.**, \*Wolff, L.M., \*Bosworth, M., & Morstad, J.
@@ -503,36 +502,40 @@ consumption. *Nutrients*, 13(2), 347.
 *Animal Cognition*, 24(2) 219-230.
 [doi:10.1007/s10071-020-01458-0](https://doi.org/10.1007/s10071-020-01458-0)
 
-`Forthcoming`
-\*Marvin, S., \*Sorenson, K., & **Stevens, J. R.**
-(forthcoming). Bringing human-animal interaction to sport: Potential
-impacts on athletic performance. *European Journal of Sport Science*.
-[doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084)
-
-Schutte, A., Torquati, J., & **Stevens, J.R.** (forthcoming). *Nature
-and Psychology: Biological, Cognitive, Developmental, and Social
-Pathways to Well-Being*. New York: Springer.
-
-Schutte, A., Torquati, J., & **Stevens, J.R.** (forthcoming).
-Introduction. In: A. Schutte, J. Torquati, & J.R. Stevens *Nature and
-Psychology: Biological, Cognitive, Developmental, and Social Pathways to
-Well-Being*. New York: Springer.
-
-**Stevens, J.R.**, \*Saltzman, A., \*Rasumussen, T., & Soh,
-L.-K. (forthcoming). Improving measurements of similarity judgments with
-machine-learning algorithms. *Journal of Computational Social Science*.
-[doi:10.1007/s42001-020-00098-1](https://doi.org/10.1007/s42001-020-00098-1)
-
-\*Thayer, E.R. & **Stevens, J.R.** (forthcoming). Effects of
-human-animal interactions on affect and cognition. *Human-Animal
-Interaction Bulletin*.
+\*Thayer, E.R. & **Stevens, J.R.** (2021). Effects of human-animal interactions on affect and cognition.
+*Human-Animal Interaction Bulletin*, 10(2), 73-98.
 [doi:10.31234/osf.io/7v5nq](https://doi.org/10.31234/osf.io/7v5nq)
 
+`Forthcoming`
+\*Marvin, S., \*Sorenson, K., & **Stevens, J. R.**
+(forthcoming). Bringing human-animal interaction to sport: Potential impacts on athletic performance.
+*European Journal of Sport Science*.
+[doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084)
+
+Schutte, A., Torquati, J., & **Stevens, J.R.** (forthcoming).
+*Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*.
+New York: Springer.
+
+Schutte, A., Torquati, J., & **Stevens, J.R.** (forthcoming).
+Introduction. In: A. Schutte, J. Torquati, & J.R. Stevens.
+*Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*.
+New York: Springer.
+
+**Stevens, J.R.**, \*Saltzman, A., \*Rasumussen, T., & Soh,
+L.-K. (forthcoming). Improving measurements of similarity judgments with machine-learning algorithms.
+*Journal of Computational Social Science*.
+[doi:10.1007/s42001-020-00098-1](https://doi.org/10.1007/s42001-020-00098-1)
+
 `Preprints`
-\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (preprint). Pro
-tip: Screen-based payment methods increase negative feelings in
-consumers but do not increase tip sizes. *PsycArXiv*.
-[doi:10.31234/osf.io/ yfne8](https://doi.org/10.31234/osf.io/yfne8)
+\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (preprint). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes.
+*PsycArXiv*.
+[doi:10.31234/osf.io/yfne8](https://doi.org/10.31234/osf.io/yfne8)
+
+Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (2021).
+Individual repeatability, species differences, and the influence of socio-ecological factors on neophobia in 10 corvid species.
+*BioRxiv*, 2021.07.27.453788.
+[doi:10.1101/2021.07.27.453788](https://doi.org/10.1101/2021.07.27.453788)
+
 
 ## Presentations
 
@@ -1257,11 +1260,11 @@ at University of Nebraska State Museum
 Museum: \"Pawsitive Psychology: Dog-Human Bonds\"
 
  Facilitator of Girl Scout Troop 20606 Animal Helpers badge
- 
+
  `2021` Guest speaker at Edgerton Explorit Veterinary Camp
- 
+
  Host for Future Huskers visit
- 
+
 
 ## Professional Service and Development
 
@@ -1435,4 +1438,4 @@ Animal Behavior Society, Comparative Cognition Society, International Society fo
 
 <!-- ### Footer
 
-Last updated: April 2021 -->
+Last updated: July 2021 -->
