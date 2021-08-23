@@ -305,7 +305,6 @@ evolution in decision theory. In P. Hammerstein & J.R. Stevens (Eds.),
 Ernst Strüngmann Forum Report (vol. 11, pp. 1-17).
 Cambridge, MA: MIT Press.
 
-
 Stevens, A.N.P. & **Stevens, J.R.** (2012).
 [Animal cognition](http://www.nature.com/scitable/knowledge/library/animal-cognition-96639212).
 *Nature Education Knowledge*, *3*, 1.
@@ -497,6 +496,15 @@ hypothetical food choices towards greater amounts and more immediate consumption
 *Nutrients*, 13(2), 347.
 [doi:10.3390/nu13020347](https://doi.org/10.3390/nu13020347)
 
+Schutte, A., Torquati, J., & **Stevens, J.R.** (2021).
+*Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*.
+New York: Springer. [doi:10.1007/978-3-030-69020-5](https://doi.org/10.1007/978-3-030-69020-5)
+
+Schutte, A., Torquati, J., & **Stevens, J.R.** (2021).
+Introduction. In: A. Schutte, J. Torquati, & J.R. Stevens.
+*Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*.
+New York: Springer. [doi:10.1007/978-3-030-69020-5_1](https://doi.org/10.1007/978-3-030-69020-5_1)
+
 **Stevens, J.R.**, \*Wolff, L.M., \*Bosworth, M., & Morstad, J.
 (2021). Dog and owner characteristics predict obedience and impulsivity.
 *Animal Cognition*, 24(2) 219-230.
@@ -511,15 +519,6 @@ hypothetical food choices towards greater amounts and more immediate consumption
 (forthcoming). Bringing human-animal interaction to sport: Potential impacts on athletic performance.
 *European Journal of Sport Science*.
 [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084)
-
-Schutte, A., Torquati, J., & **Stevens, J.R.** (forthcoming).
-*Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*.
-New York: Springer.
-
-Schutte, A., Torquati, J., & **Stevens, J.R.** (forthcoming).
-Introduction. In: A. Schutte, J. Torquati, & J.R. Stevens.
-*Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*.
-New York: Springer.
 
 **Stevens, J.R.**, \*Saltzman, A., \*Rasumussen, T., & Soh,
 L.-K. (forthcoming). Improving measurements of similarity judgments with machine-learning algorithms.
