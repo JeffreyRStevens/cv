@@ -535,6 +535,10 @@ Individual repeatability, species differences, and the influence of socio-ecolog
 *BioRxiv*, 2021.07.27.453788.
 [doi:10.1101/2021.07.27.453788](https://doi.org/10.1101/2021.07.27.453788)
 
+**Stevens, J.R.**, Cully, T., & Goh, F.W. (preprint).
+Framing attributes in similarity judgments and intertemporal choices.  
+*PsyArXiv*.
+[10.31234/osf.io/csnqv](https://doi.org/10.31234/osf.io/csnqv)
 
 ## Presentations
 
@@ -1437,4 +1441,4 @@ Animal Behavior Society, Comparative Cognition Society, International Society fo
 
 <!-- ### Footer
 
-Last updated: July 2021 -->
+Last updated: September 2021 -->

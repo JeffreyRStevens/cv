@@ -534,10 +534,16 @@ L.-K. (forthcoming). Improving measurements of similarity judgments with machine
 *PsycArXiv*.
 [doi:10.31234/osf.io/yfne8](https://doi.org/10.31234/osf.io/yfne8)
 
-Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (2021).
+Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (preprint).
 Individual repeatability, species differences, and the influence of socio-ecological factors on neophobia in 10 corvid species.
 *BioRxiv*, 2021.07.27.453788.
 [doi:10.1101/2021.07.27.453788](https://doi.org/10.1101/2021.07.27.453788)
+
+**Stevens, J.R.**, Cully, T., & Goh, F.W. (preprint).
+Framing attributes in similarity judgments and intertemporal choices.  
+*PsyArXiv*.
+[10.31234/osf.io/csnqv](https://doi.org/10.31234/osf.io/csnqv)
+
 
 
 ## Presentations
@@ -1441,4 +1447,4 @@ Animal Behavior Society, Comparative Cognition Society, International Society fo
 
 <!-- ### Footer
 
-Last updated: July 2021 -->
+Last updated: September 2021 -->
