@@ -478,21 +478,18 @@ computer-controlled treat dispenser for canine operant conditioning.
 [doi:10.5334/joh.27](https://doi.org/10.5334/joh.27)
 
 `2021`
-\#Addessi, E., \*Tierno, V., \*Focaroli, V., \*Rossi,
-F., \*Gastaldi, S., \*De Petrillo, F., Paglieri, F., &
-**Stevens, J.R.** (2021). Are capuchin monkeys (*Sapajus spp.*) sensitive to lost opportunities? The role of opportunity costs in intertemporal choice.
+\#Addessi, E., \*Tierno, V., \*Focaroli, V., \*Rossi, F., \*Gastaldi, S., \*De Petrillo, F., Paglieri, F., & **Stevens, J.R.** (2021).
+Are capuchin monkeys (*Sapajus spp.*) sensitive to lost opportunities? The role of opportunity costs in intertemporal choice.
 *Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1819), 20190674.
 [doi:10.1098/rstb.2019.0674](https://doi.org/10.1098/rstb.2019.0674)
 
-\#Goh, F. & **Stevens, J.R.** (2021). Attribute-based choice. In:
-R. Viale (Ed.),
-*Routledge handbook of bounded rationality*. (pp.
-242-253). Routledge.
+\#Goh, F. & **Stevens, J.R.** (2021).
+Attribute-based choice. In: R. Viale (Ed.),
+*Routledge handbook of bounded rationality*. (pp. 242-253). Routledge.
 [doi:10.4324/9781315658353-16](https://doi.org/10.4324/9781315658353-16)
 
-Koehler, K., \*Beckford, S. E., \*Thayer, E., \*Martin, A.
-R., Boron, J. B., & **Stevens, J. R.** (2021). Exercise shifts
-hypothetical food choices towards greater amounts and more immediate consumption.
+Koehler, K., \*Beckford, S. E., \*Thayer, E., \*Martin, A.R., Boron, J. B., & **Stevens, J. R.** (2021).
+Exercise shifts hypothetical food choices towards greater amounts and more immediate consumption.
 *Nutrients*, 13(2), 347.
 [doi:10.3390/nu13020347](https://doi.org/10.3390/nu13020347)
 
@@ -505,12 +502,18 @@ Introduction. In: A. Schutte, J. Torquati, & J.R. Stevens.
 *Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*.
 New York: Springer. [doi:10.1007/978-3-030-69020-5_1](https://doi.org/10.1007/978-3-030-69020-5_1)
 
-**Stevens, J.R.**, \*Wolff, L.M., \*Bosworth, M., & Morstad, J.
-(2021). Dog and owner characteristics predict obedience and impulsivity.
+**Stevens, J.R.**, \*Saltzman, A., \*Rasumussen, T., & Soh, L.-K. (2021).
+Improving measurements of similarity judgments with machine-learning algorithms.
+*Journal of Computational Social Science*, 4(2), 613-629.
+[doi:10.1007/s42001-020-00098-1](https://doi.org/10.1007/s42001-020-00098-1)
+
+**Stevens, J.R.**, \*Wolff, L.M., \*Bosworth, M., & Morstad, J. (2021).
+Dog and owner characteristics predict obedience and impulsivity.
 *Animal Cognition*, 24(2) 219-230.
 [doi:10.1007/s10071-020-01458-0](https://doi.org/10.1007/s10071-020-01458-0)
 
-\*Thayer, E.R. & **Stevens, J.R.** (2021). Effects of human-animal interactions on affect and cognition.
+\*Thayer, E.R. & **Stevens, J.R.** (2021).
+Effects of human-animal interactions on affect and cognition.
 *Human-Animal Interaction Bulletin*, 10(2), 73-98.
 [doi:10.31234/osf.io/7v5nq](https://doi.org/10.31234/osf.io/7v5nq)
 
@@ -520,20 +523,15 @@ New York: Springer. [doi:10.1007/978-3-030-69020-5_1](https://doi.org/10.1007/97
 *European Journal of Sport Science*.
 [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084)
 
-**Stevens, J.R.**, \*Saltzman, A., \*Rasumussen, T., & Soh,
-L.-K. (forthcoming). Improving measurements of similarity judgments with machine-learning algorithms.
-*Journal of Computational Social Science*.
-[doi:10.1007/s42001-020-00098-1](https://doi.org/10.1007/s42001-020-00098-1)
+Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (forthcoming).
+A multi-lab collaboration on neophobia in corvids.
+[preprint](https://doi.org/10.1101/2021.07.27.453788)
 
 `Preprints`
-\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (preprint). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes.
+\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (preprint).
+Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes.
 *PsycArXiv*.
 [doi:10.31234/osf.io/yfne8](https://doi.org/10.31234/osf.io/yfne8)
-
-Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (2021).
-Individual repeatability, species differences, and the influence of socio-ecological factors on neophobia in 10 corvid species.
-*BioRxiv*, 2021.07.27.453788.
-[doi:10.1101/2021.07.27.453788](https://doi.org/10.1101/2021.07.27.453788)
 
 **Stevens, J.R.**, Cully, T., & Goh, F.W. (preprint).
 Framing attributes in similarity judgments and intertemporal choices.  
@@ -541,7 +539,6 @@ Framing attributes in similarity judgments and intertemporal choices.
 [10.31234/osf.io/csnqv](https://doi.org/10.31234/osf.io/csnqv)
 
 ## Presentations
-
 
 ### Invited
 
@@ -1405,7 +1402,8 @@ Contributor to R package [see](https://easystats.github.io/see/), which provides
 Cognitive Science Society, *Current Biology*, *Current Directions in Psychological Science*,
 *Ethology*, *Etología*, *Evolutionary Psychology*, *iScience*,
 *Journal of Behavioral Decision Making*, *Journal of Comparative Psychology*,
-*Journal of Economic Psychology*, *Journal of Experimental Psychology: Learning, Memory, and Cognition*,
+*Journal of Economic Psychology*,  *Journal of Experimental Psychology: General*,
+*Journal of Experimental Psychology: Learning, Memory, and Cognition*,
 *Learning & Behavior*, *Nature Reviews Neuroscience*, *Naturwissenschaften*,
 *Personality and Social Psychology Review*, *PLoS Biology*, *PLoS ONE*,
 *Proceedings of the National Academy of Sciences USA*,
