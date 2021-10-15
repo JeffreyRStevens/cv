@@ -515,7 +515,7 @@ Dog and owner characteristics predict obedience and impulsivity.
 \*Thayer, E.R. & **Stevens, J.R.** (2021).
 Effects of human-animal interactions on affect and cognition.
 *Human-Animal Interaction Bulletin*, 10(2), 73-98.
-[doi:10.31234/osf.io/7v5nq](https://doi.org/10.31234/osf.io/7v5nq)
+[preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/7v5nq)
 
 `Forthcoming`
 \*Marvin, S., \*Sorenson, K., & **Stevens, J. R.**
@@ -525,18 +525,20 @@ Effects of human-animal interactions on affect and cognition.
 
 Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (forthcoming).
 A multi-lab collaboration on neophobia in corvids.
-[preprint](https://doi.org/10.1101/2021.07.27.453788)
+[preprint at *bioRxiv*](https://doi.org/10.1101/2021.07.27.453788)
 
 `Preprints`
-\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (preprint).
+\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (2021).
 Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes.
-*PsycArXiv*.
-[doi:10.31234/osf.io/yfne8](https://doi.org/10.31234/osf.io/yfne8)
+[preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8)
 
-**Stevens, J.R.**, Cully, T., & Goh, F.W. (preprint).
-Framing attributes in similarity judgments and intertemporal choices.  
-*PsyArXiv*.
-[10.31234/osf.io/csnqv](https://doi.org/10.31234/osf.io/csnqv)
+**Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021).
+Framing attributes in similarity judgments and intertemporal choices.
+[preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/csnqv)
+
+ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021).
+ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*.
+[preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq)
 
 ## Presentations
 
