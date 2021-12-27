@@ -265,12 +265,14 @@ Schutte, A., Torquati, J., & **Stevens, J.R.** (2021). Introduction. In: A. Schu
 
 \*Thayer, E.R. & **Stevens, J.R.** (2021). Effects of human-animal interactions on affect and cognition. *Human-Animal Interaction Bulletin*, 10(2), 73-98. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/7v5nq)
 
-`Forthcoming`
-Bryer, M.A.H., Koopman, S.E., Cantlon, J.F., Piantadosi, S.T., MacLean, E.L., Baker, J.M., Beran, M.J., Jones, S.M., Jordan, K.E., Mahamane, S., Nieder, A., Perdue, B.M., Range, F., **Stevens, J.R.**, Tomonaga, M., Ujfalussy, D.J., and Vonk, J. (forthcoming). The evolution of quantitative sensitivity. *Philosophical Transactions of the Royal Society*.
+`2022`
+Bryer, M. A. H., Koopman, S. E., Cantlon, J. F., Piantadosi, S. T., MacLean, E. L., Baker, J. M., Beran, M. J., Jones, S. M., Jordan, K. E., Mahamane, S., Nieder, A., Perdue, B. M., Range, F., **Stevens, J. R.**, Tomonaga, M., Ujfalussy, D. J., & Vonk, J. (2022). The evolution of quantitative sensitivity. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 377(1844), 20200529. [doi:10.1098/rstb.2020.0529](https://doi.org/10.1098/rstb.2020.0529)
 
+
+`Forthcoming`
 \*Marvin, S., \*Sorenson, K., & **Stevens, J. R.** (forthcoming). Bringing human-animal interaction to sport: Potential impacts on athletic performance. *European Journal of Sport Science*. [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084)
 
-Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (forthcoming). Socio-ecological correlates of neophobia in corvids. *Current Biology*. [preprint at *bioRxiv*](https://doi.org/10.1101/2021.07.27.453788)
+Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (forthcoming). Socio-ecological correlates of neophobia in corvids. *Current Biology*. *Current Biology*. [doi:10.1016/j.cub.2021.10.045](https://doi.org/10.1016/j.cub.2021.10.045)
 
 `Preprints`
 \*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (2021). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8)
