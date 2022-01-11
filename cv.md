@@ -833,7 +833,7 @@ Department of Psychology Executive Committee, University of Nebraska-Lincoln
 
 ### excluder
 
-Developer of R package [excluder](https://jstevens5.github.io/excluder/), which facilitates excluding data from Qualtrics data sets.
+Developer of R package [excluder](https://docs.ropensci.org/excluder/), which facilitates excluding data from Qualtrics data sets.
 
 ### prereg
 Contributor to R package [prereg](https://github.com/crsh/prereg), which provides R Markdown templates that facilitate authoring preregistrations of scientific studies in PDF format.
