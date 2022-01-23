@@ -20,13 +20,13 @@ University of Nebraska-Lincoln
 <!-- fa are fontawesome, ai are academicons -->
 * <i class="fa fa-envelope"></i> <a href="mailto:jeffrey.r.stevens@gmail.com">jeffrey.r.stevens@gmail.com</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/JeffStevensADML">JeffStevensADML</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/jeffreyrstevens">jeffreyrstevens</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/jeffreyrstevens">JeffreyRStevens</a><br />
 * <i class="ai ai-osf"></i> <a href="https://osf.io/4nx8b/">Open Science Framework</a><br />
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0003-2375-1360">ORCiD</a>
 * <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?hl=en&user=3KRfbWUAAAAJ">Google Scholar</a>
 * <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Jeffrey_Stevens">ResearchGate</a>
 * <i class="ai ai-impactstory"></i> <a href="https://profiles.impactstory.org/u/0000-0003-2375-1360">ImpactStory</a>
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/prof-jeffrey-r-stevens/">LinkedIn</a>
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/JeffreyRStevens/">LinkedIn</a>
 
 
 ## Currently
