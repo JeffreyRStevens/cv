@@ -230,41 +230,41 @@ Koehler, K., Boron, J.B., Garvin, T.M., Bice, M.R., & **Stevens, J.R.** (2019). 
 \*Arce, W. & **Stevens, J.R.** (2020). Developing a computer-controlled treat dispenser for canine operant conditioning. *Journal of Open Hardware*, 4(1), 6. [doi:10.5334/joh.27](https://doi.org/10.5334/joh.27)
 
 `2021`
-\#Addessi, E., \*Tierno, V., \*Focaroli, V., \*Rossi, F., \*Gastaldi, S., \*De Petrillo, F., Paglieri, F., & **Stevens, J.R.** (2021). Are capuchin monkeys (*Sapajus spp.*) sensitive to lost opportunities? The role of opportunity costs in intertemporal choice. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1819), 20190674. [doi:10.1098/rstb.2019.0674](https://doi.org/10.1098/rstb.2019.0674)
+\#Addessi, E., \*Tierno, V., \*Focaroli, V., \*Rossi, F., \*Gastaldi, S., \*De Petrillo, F., Paglieri, F., & **Stevens, J.R.** (2021). Are capuchin monkeys (*Sapajus spp.*) sensitive to lost opportunities? The role of opportunity costs in intertemporal choice. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1819), 20190674. [doi:10.1098/rstb.2019.0674](https://doi.org/10.1098/rstb.2019.0674) [[PDF]()]
 
-\#Goh, F. & **Stevens, J.R.** (2021). Attribute-based choice. In: R. Viale (Ed.), *Routledge handbook of bounded rationality*. (pp. 242-253). Routledge. [doi:10.4324/9781315658353-16](https://doi.org/10.4324/9781315658353-16)
+\#Goh, F. & **Stevens, J.R.** (2021). Attribute-based choice. In: R. Viale (Ed.), *Routledge handbook of bounded rationality*. (pp. 242-253). Routledge. [doi:10.4324/9781315658353-16](https://doi.org/10.4324/9781315658353-16) [[PDF]()]
 
-Koehler, K., \*Beckford, S. E., \*Thayer, E., \*Martin, A.R., Boron, J. B., & **Stevens, J. R.** (2021). Exercise shifts hypothetical food choices towards greater amounts and more immediate consumption. *Nutrients*, 13(2), 347. [doi:10.3390/nu13020347](https://doi.org/10.3390/nu13020347)
+Koehler, K., \*Beckford, S. E., \*Thayer, E., \*Martin, A.R., Boron, J. B., & **Stevens, J. R.** (2021). Exercise shifts hypothetical food choices towards greater amounts and more immediate consumption. *Nutrients*, 13(2), 347. [doi:10.3390/nu13020347](https://doi.org/10.3390/nu13020347) [[PDF]()]
 
-Schutte, A., Torquati, J., & **Stevens, J.R.** (2021). *Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*. New York: Springer. [doi:10.1007/978-3-030-69020-5](https://doi.org/10.1007/978-3-030-69020-5)
+Schutte, A., Torquati, J., & **Stevens, J.R.** (2021). *Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*. New York: Springer. [doi:10.1007/978-3-030-69020-5](https://doi.org/10.1007/978-3-030-69020-5) [[PDF]()]
 
-Schutte, A., Torquati, J., & **Stevens, J.R.** (2021). Introduction. In: A. Schutte, J. Torquati, & J.R. Stevens. *Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*. New York: Springer. [doi:10.1007/978-3-030-69020-5_1](https://doi.org/10.1007/978-3-030-69020-5_1)
+Schutte, A., Torquati, J., & **Stevens, J.R.** (2021). Introduction. In: A. Schutte, J. Torquati, & J.R. Stevens. *Nature and Psychology: Biological, Cognitive, Developmental, and Social Pathways to Well-Being*. New York: Springer. [doi:10.1007/978-3-030-69020-5_1](https://doi.org/10.1007/978-3-030-69020-5_1) [[PDF]()]
 
-**Stevens, J. R.**, (2021). excluder: An R package that checks for exclusion criteria in online data. *Journal of Open Source Software*, 6(67), 3893, [doi:10.21105/joss.03893](https://doi.org/10.21105/joss.03893)
+**Stevens, J. R.**, (2021). excluder: An R package that checks for exclusion criteria in online data. *Journal of Open Source Software*, 6(67), 3893, [doi:10.21105/joss.03893](https://doi.org/10.21105/joss.03893) [[PDF]()]
 
-**Stevens, J.R.**, \*Saltzman, A., \*Rasumussen, T., & Soh, L.-K. (2021). Improving measurements of similarity judgments with machine-learning algorithms. *Journal of Computational Social Science*, 4(2), 613-629. [doi:10.1007/s42001-020-00098-1](https://doi.org/10.1007/s42001-020-00098-1)
+**Stevens, J.R.**, \*Saltzman, A., \*Rasumussen, T., & Soh, L.-K. (2021). Improving measurements of similarity judgments with machine-learning algorithms. *Journal of Computational Social Science*, 4(2), 613-629. [doi:10.1007/s42001-020-00098-1](https://doi.org/10.1007/s42001-020-00098-1) [[PDF]()]
 
 **Stevens, J.R.**, \*Wolff, L.M., \*Bosworth, M., & Morstad, J. (2021). Dog and owner characteristics predict obedience and impulsivity. *Animal Cognition*, 24(2) 219-230. [doi:10.1007/s10071-020-01458-0](https://doi.org/10.1007/s10071-020-01458-0)
 
 \*Thayer, E.R. & **Stevens, J.R.** (2021). Effects of human-animal interactions on affect and cognition. *Human-Animal Interaction Bulletin*, 10(2), 73-98. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/7v5nq)
 
 `2022`
-Bryer, M. A. H., Koopman, S. E., Cantlon, J. F., Piantadosi, S. T., MacLean, E. L., Baker, J. M., Beran, M. J., Jones, S. M., Jordan, K. E., Mahamane, S., Nieder, A., Perdue, B. M., Range, F., **Stevens, J. R.**, Tomonaga, M., Ujfalussy, D. J., & Vonk, J. (2022). The evolution of quantitative sensitivity. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 377(1844), 20200529. [doi:10.1098/rstb.2020.0529](https://doi.org/10.1098/rstb.2020.0529)
+\*Arce, W. & **Stevens, J. R.** (2022). A precise dispenser design for canine cognition research. *Journal of Open Hardware*, 6(1) 2. [doi:10.5334/joh.41](https://doi.org/10.5334/joh.41) [[PDF](https://decisionslab.unl.edu/pubs/arce_stevens_2022.pdf)]
 
-Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (2022). Socio-ecological correlates of neophobia in corvids. *Current Biology*, 32(1), 74-85.e4.  [doi:10.1016/j.cub.2021.10.045](https://doi.org/10.1016/j.cub.2021.10.045)
+Bryer, M. A. H., Koopman, S. E., Cantlon, J. F., Piantadosi, S. T., MacLean, E. L., Baker, J. M., Beran, M. J., Jones, S. M., Jordan, K. E., Mahamane, S., Nieder, A., Perdue, B. M., Range, F., **Stevens, J. R.**, Tomonaga, M., Ujfalussy, D. J., & Vonk, J. (2022). The evolution of quantitative sensitivity. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 377(1844), 20200529. [doi:10.1098/rstb.2020.0529](https://doi.org/10.1098/rstb.2020.0529) [[PDF](https://decisionslab.unl.edu/pubs/bryer_etal_2022.pdf)]
+
+Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (2022). Socio-ecological correlates of neophobia in corvids. *Current Biology*, 32(1), 74-85.e4.  [doi:10.1016/j.cub.2021.10.045](https://doi.org/10.1016/j.cub.2021.10.045) [[PDF](https://decisionslab.unl.edu/pubs/miller_etal_2021_preprint.pdf)]
 
 
 `Forthcoming`
-\*Arce, W. & **Stevens, J. R.** (forthcoming). A precise dispenser design for canine cognition research. *Journal of Open Hardware*.
-
-\*Marvin, S., \*Sorenson, K., & **Stevens, J. R.** (forthcoming). Bringing human-animal interaction to sport: Potential impacts on athletic performance. *European Journal of Sport Science*. [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084)
+\*Marvin, S., \*Sorenson, K., & **Stevens, J. R.** (forthcoming). Bringing human-animal interaction to sport: Potential impacts on athletic performance. *European Journal of Sport Science*. [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084) [[PDF](https://decisionslab.unl.edu/pubs/marvin_etal_2020_preprint.pdf)]
 
 `Preprints`
-\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (2021). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8)
+\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (2021). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8) [[PDF](https://decisionslab.unl.edu/pubs/goh_etal_2020_preprint.pdf)]
 
-ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq)
+ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq) [[PDF](https://decisionslab.unl.edu/pubs/manydogs_2021_preprint.pdf)]
 
-**Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021). Framing attributes in similarity judgments and intertemporal choices. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/csnqv)
+**Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021). Framing attributes in similarity judgments and intertemporal choices. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/csnqv) [[PDF](https://decisionslab.unl.edu/pubs/stevens_etal_2021.pdf)]
 
 
 ## Presentations
