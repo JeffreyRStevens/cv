@@ -262,6 +262,8 @@ Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampto
 `Preprints`
 \*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (2021). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8) [[PDF](https://decisionslab.unl.edu/pubs/goh_etal_2020_preprint.pdf)]
 
+Höchsmann, C., Becksford, S.E., French, J.A., Boron, J.B., **Stevens, J.R.**, & Koehler, K. (2022). Biological and behavioral predictors of compensatory energy intake after exercise. [preprint at *Research Square*](https://doi.org/10.21203/rs.3.rs-1414640) [[PDF](https://decisionslab.unl.edu/pubs/hochsmann_etal_2022_preprint.pdf)]
+
 ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq) [[PDF](https://decisionslab.unl.edu/pubs/manydogs_2021_preprint.pdf)]
 
 **Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021). Framing attributes in similarity judgments and intertemporal choices. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/csnqv) [[PDF](https://decisionslab.unl.edu/pubs/stevens_etal_2021.pdf)]
