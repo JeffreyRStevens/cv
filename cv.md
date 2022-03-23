@@ -268,6 +268,8 @@ ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne,
 
 **Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021). Framing attributes in similarity judgments and intertemporal choices. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/csnqv) [[PDF](https://decisionslab.unl.edu/pubs/stevens_etal_2021.pdf)]
 
+**Stevens, J.R.**, \*Mathias, M., \*Herridge, M., \*Hughes-Duvall, K., \*Wolff, L. M., & \*Yohe, M. (2022). Do owners know how impulsive their dogs are? [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/hyvdq)
+
 
 ## Presentations
 
