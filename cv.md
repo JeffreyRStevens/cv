@@ -257,11 +257,11 @@ Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampto
 
 
 `Forthcoming`
+\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (forthcoming). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8) [[PDF](https://decisionslab.unl.edu/pubs/goh_etal_2020_preprint.pdf)]
+
 \*Marvin, S., \*Sorenson, K., & **Stevens, J. R.** (forthcoming). Bringing human-animal interaction to sport: Potential impacts on athletic performance. *European Journal of Sport Science*. [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084) [[PDF](https://decisionslab.unl.edu/pubs/marvin_etal_2020_preprint.pdf)]
 
 `Preprints`
-\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (2021). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8) [[PDF](https://decisionslab.unl.edu/pubs/goh_etal_2020_preprint.pdf)]
-
 Höchsmann, C., Becksford, S.E., French, J.A., Boron, J.B., **Stevens, J.R.**, & Koehler, K. (2022). Biological and behavioral predictors of compensatory energy intake after exercise. [preprint at *Research Square*](https://doi.org/10.21203/rs.3.rs-1414640/v1) [[PDF](https://decisionslab.unl.edu/pubs/hochsmann_etal_2022_preprint.pdf)]
 
 ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq) [[PDF](https://decisionslab.unl.edu/pubs/manydogs_2021_preprint.pdf)]
