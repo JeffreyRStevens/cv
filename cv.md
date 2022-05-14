@@ -14,7 +14,7 @@ Department of Psychology • Center for Brain, Biology & Behavior • University
 
 <br>
 
-I'm Susan J. Rosowski Associate Professor of [Psychology](https://psychology.unl.edu) and a resident member of the [Center for Brain, Biology & Behavior](https://cb3.unl.edu/) at the [University of Nebraska-Lincoln](http://www.unl.edu/). I study decision making, cognition, and well-being in humans and other animals at the [Adaptive Decision Making Lab](https://decisionslab.unl.edu) and the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu).
+I'm Susan J. Rosowski Associate Professor of [Psychology](https://psychology.unl.edu) and a resident member of the [Center for Brain, Biology & Behavior](https://cb3.unl.edu/) at the [University of Nebraska-Lincoln](http://www.unl.edu/). I study decision making, cognition, and well-being in humans and other animals at the [Adaptive Decision Making Lab](https://decisionslab.unl.edu) and the [Canine Cognition and Human Interaction Lab](https://dogcog.unl.edu). I am also a Data Science Mentor at [RStudio Academy](https://www.rstudio.com/academy) where I teach data science to teams of learners.
 
 ## Academic Positions
 
@@ -43,6 +43,8 @@ Associate professor, Department of Psychology, University of Nebraska-Lincoln
 Susan J. Rosowski associate professor, Department of Psychology, University of
 Nebraska-Lincoln
 
+`2022-`
+Data science mentor, RStudio Academy
 
 ## Education
 
