@@ -514,7 +514,7 @@ ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne,
 `2021`
 "Can Spot go the distance? Owners' predictions of dog impulsivity", **Stevens, J.R.**, Mathias, M., Herridge, M., Duvall, K., & Wolff, L., Comparative Cognition Conference (virtual conference talk).
 
-"Effects of human-animal interactions on affect and cognition", Thayer, E.R. \& **Stevens, J.R.**, International Society for Anthrozoology (virtual conference talk)."
+"Effects of human-animal interactions on affect and cognition", Thayer, E.R. & **Stevens, J.R.**, International Society for Anthrozoology (virtual conference talk)."
 
 ### Tutorials
 
@@ -630,7 +630,7 @@ Lecturer, *Psychology of Economic Decision Making, Psy 1104*---Harvard Universit
 
 Instructor, *Evolution, Behavior, and Society, Psyc 270*---University of Nebraska (2011--2016, 2018, 2020)
 
-Instructor, *Psychology of Decision Making, Psyc 961*---University of Nebraska (2012, 2013, 2015, 2017, 2020)
+Instructor, *Psychology of Decision Making, Psyc 961*---University of Nebraska (2012, 2013, 2015, 2017, 2020, 2021)
 
 Instructor, *Learning Processes, Psyc 461/861*---University of Nebraska (2013--2017)
 
@@ -693,49 +693,52 @@ Instructor, *Data Science and Visualization in R*, Psyc 492/971*---University of
 ### Undergraduate
 
 `2003-2004`
-Elizabeth Hallinan---"Temporal discounting in two New World primates, the cotton-top tamarin (*Saguinus oedipus*) and the common marmoset (*Callithrix jacchus*).\" (senior thesis, Mind, Brain, and Behavior Program,  Biology, Harvard University)
+Elizabeth Hallinan---"Temporal discounting in two New World primates, the cotton-top tamarin (*Saguinus oedipus*) and the common marmoset (*Callithrix jacchus*)", (senior thesis, Mind, Brain, and Behavior Program,  Biology, Harvard University)
 
 `2004-2005`
-Alexandra Rosati---"Context-dependent discounting in two New World primates, the cotton-top tamarin (*Saguinus oedipus*) and the common marmoset (*Callithrix jacchus*).\" (senior thesis, Mind, Brain, and Behavior Program, Psychology, Harvard University) *Winner of Hoopes Thesis Award and Psychology Faculty Award*
+Alexandra Rosati---"Context-dependent discounting in two New World primates, the cotton-top tamarin (*Saguinus oedipus*) and the common marmoset (*Callithrix jacchus*)", (senior thesis, Mind, Brain, and Behavior Program, Psychology, Harvard University) *Winner of Hoopes Thesis Award and Psychology Faculty Award*
 
 `2005-2007`
-Sarah Heilbronner---"The evolution of risk-sensitive preferences in nonhuman primates.\" (senior thesis, Mind, Brain, and Behavior Program, Psychology, Harvard University) *Winner of Psychology Faculty Award*
+Sarah Heilbronner---"The evolution of risk-sensitive preferences in nonhuman primates", (senior thesis, Mind, Brain, and Behavior Program, Psychology, Harvard University) *Winner of Psychology Faculty Award*
 
 `2010-2011`
-Tim Winke---"The role of costly errors in cooperative memory." (Bachelors thesis, Universität Bayreuth)
+Tim Winke---"The role of costly errors in cooperative memory", (Bachelors thesis, Universität Bayreuth)
 
 `2014-2015
-`Whitney Leichner---"Hormonal mechanisms of non-kin cooperation: A study of the effects of mesotocin on prosocial behavior in pinyon jays (*Gymnorhinus cyanocephalus*)." (honor's thesis in Psychology, University of Nebraska-Lincoln)
+`Whitney Leichner---"Hormonal mechanisms of non-kin cooperation: A study of the effects of mesotocin on prosocial behavior in pinyon jays (*Gymnorhinus cyanocephalus*)", (honor's thesis in Psychology, University of Nebraska-Lincoln)
 
 `2015-2016`
-Molly Shane---"Nature's effect on stress and decision making." (honor's thesis in Psychology, University of Nebraska-Lincoln)
+Molly Shane---"Nature's effect on stress and decision making", (honor's thesis in Psychology, University of Nebraska-Lincoln)
 
-Tyler Stading---"Naturally stressed: The effect of nature exposure on stress physiology and decision making." (honor's thesis in Psychology, University of Nebraska-Lincoln)
+Tyler Stading---"Naturally stressed: The effect of nature exposure on stress physiology and decision making", (honor's thesis in Psychology, University of Nebraska-Lincoln)
 
 `2020`
-Hannah Eggert---"General and veterinary care of service dogs and how service dogs benefit their handlers.", (honor's thesis in Veterinary Sciences, University of Nebraska-Lincoln)
+Hannah Eggert---"General and veterinary care of service dogs and how service dogs benefit their handlers", (honor's thesis in Veterinary Sciences, University of Nebraska-Lincoln)
 
 `2020-2021`
-Megan Herridge---"Owner perception of impulsivity in dogs and implementation of as spatial choice task for evaluation.", (honor's thesis in Animal Science, University of Nebraska-Lincoln)
+Megan Herridge---"Owner perception of impulsivity in dogs and implementation of as spatial choice task for evaluation", (honor's thesis in Animal Science, University of Nebraska-Lincoln)
 
-McKenna Yohe---"Predictors of separation anxiety in dogs.", (honor's thesis in Veterinary Science and Psychology, University of Nebraska-Lincoln)
+McKenna Yohe---"Predictors of separation anxiety in dogs", (honor's thesis in Veterinary Science and Psychology, University of Nebraska-Lincoln)
 
 ### Graduate
 
 `2008-2012`
-Jenny Volstorf---"The role of memory in cooperation." (PhD thesis, International Max Planck Research School on Adapting Behavior in a Fundamentally Uncertain World)
+Jenny Volstorf---"The role of memory in cooperation", (PhD thesis, International Max Planck Research School on Adapting Behavior in a Fundamentally Uncertain World)
 
 `2009-2010`
-Nelly Mülhoff--"Spacial discounting of food and social partners in guppies (*Poecilia reticulata*)." (Diploma (Masters) thesis, Humboldt-Universität)
+Nelly Mülhoff--"Spacial discounting of food and social partners in guppies (*Poecilia reticulata*)", (Diploma (Masters) thesis, Humboldt-Universität)
 
 `2012-2019`
-Juan Duque---"Patterns of behavioral and physiological consistency in pinyon jays (*Gymnorhinus cyancephalus*)." (PhD thesis, Dept. of Psychology, University of Nebraska-Lincoln)
+Juan Duque---"Patterns of behavioral and physiological consistency in pinyon jays (*Gymnorhinus cyancephalus*)", (PhD thesis, Dept. of Psychology, University of Nebraska-Lincoln)
 
 `2017-2019`
-Francine Goh--"Social influences on similarity judgments and intertemporal choice." (Master's thesis, Dept. of Psychology, University of Nebraska-Lincoln)
+Francine Goh--"Social influences on similarity judgments and intertemporal choice", (Master's thesis, Dept. of Psychology, University of Nebraska-Lincoln)
 
 `2018-2020`
-Elise Thayer--"Effects of human-animal interactions on affect and cognition." (Master's thesis, Dept. of Psychology, University of Nebraska-Lincoln)
+Elise Thayer--"Effects of human-animal interactions on affect and cognition", (Master's thesis, Dept. of Psychology, University of Nebraska-Lincoln)
+
+`2019-2022`
+London Wolff--"Friends or food: comparing social and food-based numerical cognition in captive pinyon jays", (Master's thesis, Dept. of Psychology, University of Nebraska-Lincoln)
 
 ## Outreach
 
@@ -825,6 +828,8 @@ Department of Psychology Executive Committee, University of Nebraska-Lincoln
 
 `2020-` Editorial board of *Animal Behavior and Cognition*
 
+`2022` Organizer of Nebraska Symposium on Motivation on Canine Cognition and the Human Bond, University of Nebraska-Lincoln
+
 ## Honors and Awards
 
 `1996` Phi Beta Kappa National Honor Society, Baylor University
@@ -872,7 +877,7 @@ Improvement Grant panel
 
 `2018-2020` Buffett Early Childhood Institute Graduate Scholars panel
 
-`2021` National Institutes of Health, Human-Animal Interaction panel
+`2021-2022` National Institutes of Health, Human-Animal Interaction panel
 
 ### Ad-hoc Reviews
 
