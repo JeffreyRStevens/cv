@@ -280,14 +280,14 @@ Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampto
 
 \*Marvin, S., \*Sorenson, K., & **Stevens, J. R.** (forthcoming). Bringing human-animal interaction to sport: Potential impacts on athletic performance. *European Journal of Sport Science*. [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084) [[PDF](https://decisionslab.unl.edu/pubs/marvin_etal_2020_preprint.pdf)]
 
+**Stevens, J.R.**, \*Mathias, M., \*Herridge, M., \*Hughes-Duvall, K., \*Wolff, L. M., & \*Yohe, M. (forthcoming). Do owners know how impulsive their dogs are? *Animal Behavior & Cognition* [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/hyvdq)
+
 `Preprints`
 Höchsmann, C., Becksford, S.E., French, J.A., Boron, J.B., **Stevens, J.R.**, & Koehler, K. (2022). Biological and behavioral predictors of compensatory energy intake after exercise. [preprint at *Research Square*](https://doi.org/10.21203/rs.3.rs-1414640/v1) [[PDF](https://decisionslab.unl.edu/pubs/hochsmann_etal_2022_preprint.pdf)]
 
 ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq) [[PDF](https://decisionslab.unl.edu/pubs/manydogs_2021_preprint.pdf)]
 
 **Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021). Framing attributes in similarity judgments and intertemporal choices. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/csnqv) [[PDF](https://decisionslab.unl.edu/pubs/stevens_etal_2021.pdf)]
-
-**Stevens, J.R.**, \*Mathias, M., \*Herridge, M., \*Hughes-Duvall, K., \*Wolff, L. M., & \*Yohe, M. (2022). Do owners know how impulsive their dogs are? [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/hyvdq)
 
 
 ## Presentations
@@ -630,7 +630,7 @@ Lecturer, *Psychology of Economic Decision Making, Psy 1104*---Harvard Universit
 
 Instructor, *Evolution, Behavior, and Society, Psyc 270*---University of Nebraska (2011--2016, 2018, 2020)
 
-Instructor, *Psychology of Decision Making, Psyc 961*---University of Nebraska (2012, 2013, 2015, 2017, 2020, 2021)
+Instructor, *Psychology of Decision Making, Psyc 961*---University of Nebraska (2012, 2013, 2015, 2017, 2020, 2022)
 
 Instructor, *Learning Processes, Psyc 461/861*---University of Nebraska (2013--2017)
 
