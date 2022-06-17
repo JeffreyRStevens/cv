@@ -266,6 +266,8 @@ Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampto
 **Stevens, J.R.**, \*Mathias, M., \*Herridge, M., \*Hughes-Duvall, K., \*Wolff, L. M., & \*Yohe, M. (forthcoming). Do owners know how impulsive their dogs are? *Animal Behavior & Cognition* [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/hyvdq)
 
 `Preprints`
+\*Goh, F. & **Stevens, J.R.** (2022). 	Social influences on similarity judgments and intertemporal choice. [preprint at  *PsyArXiv*](https://doi.org/10.31234/osf.io/xz68b) [[PDF](https://decisionslab.unl.edu/pubs/goh_stevens_2022.pdf)]
+
 Höchsmann, C., Becksford, S.E., French, J.A., Boron, J.B., **Stevens, J.R.**, & Koehler, K. (2022). Biological and behavioral predictors of compensatory energy intake after exercise. [preprint at *Research Square*](https://doi.org/10.21203/rs.3.rs-1414640/v1) [[PDF](https://decisionslab.unl.edu/pubs/hochsmann_etal_2022_preprint.pdf)]
 
 ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq) [[PDF](https://decisionslab.unl.edu/pubs/manydogs_2021_preprint.pdf)]
@@ -583,13 +585,13 @@ ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne,
 
 `2019` Great Plains IDeA-CTR Vouchers for Core Facilities, "Exercise and temporal food choices" PI with Karsten Koehler (\$4,400)
 
+`2020-2021` University of Nebraska-Lincoln Maude Hammond Fling Faculty Research Fellowship, "Assessing numerical discrimination in dogs", PI with Mike Dodd (\$10,000)
+
 ### Ongoing
 
 `2017-` National Science Foundation, "Similarity as a process model of intertemporal choice" PI with Leen-Kiat Soh (NSF-1658837, \$655,373)
 
 `2019-` Great Plains IDeA-CTR Pilot Program, "Age-related differences in food choices and appetite regulation in the context of exercise\", co-PI with Julie Boron (PI), Karsten Koehler, and Cary Savage (\$73,250)
-
-`2020-` University of Nebraska-Lincoln Maude Hammond Fling Faculty Research Fellowship, "Assessing numerical discrimination in dogs", PI with Mike Dodd (\$10,000)
 
 `2021-` University of Nebraska Collaboration Initiative Grant, "Enhancing well-being and animal bonds in rural populations", PI with Lisa Karr, Michelle Howell Smith, and Rosemary Strasser (\$7,500)
 
@@ -838,6 +840,10 @@ Department of Psychology Executive Committee, University of Nebraska-Lincoln
 ### excluder
 
 Developer of R package [excluder](https://docs.ropensci.org/excluder/), which facilitates excluding data from Qualtrics data sets.
+
+### flashr
+
+Developer of R package [flashr](https://github.com/JeffreyRStevens/flashr/), which creates flashcards for learning terms and descriptions.
 
 ### prereg
 Contributor to R package [prereg](https://github.com/crsh/prereg), which provides R Markdown templates that facilitate authoring preregistrations of scientific studies in PDF format.
