@@ -272,14 +272,14 @@ Schutte, A., Torquati, J., & **Stevens, J.R.** (2021). Introduction. In: A. Schu
 
 Bryer, M. A. H., Koopman, S. E., Cantlon, J. F., Piantadosi, S. T., MacLean, E. L., Baker, J. M., Beran, M. J., Jones, S. M., Jordan, K. E., Mahamane, S., Nieder, A., Perdue, B. M., Range, F., **Stevens, J. R.**, Tomonaga, M., Ujfalussy, D. J., & Vonk, J. (2022). The evolution of quantitative sensitivity. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 377(1844), 20200529. [doi:10.1098/rstb.2020.0529](https://doi.org/10.1098/rstb.2020.0529) [[PDF](https://decisionslab.unl.edu/pubs/bryer_etal_2022.pdf)]
 
+\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (2022). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [doi:10.33422/ejbs.v4i4.678](https://doi.org/10.33422/ejbs.v4i4.678) [[PDF](https://decisionslab.unl.edu/pubs/goh_etal_2020_preprint.pdf)]
+
 Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampton, I., Garcia-Pelegrin, E., Gould, K., Greggor, A. L., Izawa, E.-I., Kelly, D. M., Li, Z., Luo, Y., Luong, L. B., Massen, J. J. M., Neider, A., Reber, S. A., Schiestl, M., Seguchi, A., **Stevens, J.R.**, Taylor, A.H., Wang, L.,  Wolff, L.M.,  Zhang, Y., Clayton, N. S. (2022). Socio-ecological correlates of neophobia in corvids. *Current Biology*, 32(1), 74-85.e4.  [doi:10.1016/j.cub.2021.10.045](https://doi.org/10.1016/j.cub.2021.10.045) [[PDF](https://decisionslab.unl.edu/pubs/miller_etal_2021_preprint.pdf)]
 
 \*Marvin, S., \*Sorenson, K., & **Stevens, J. R.** (2022). Bringing human-animal interaction to sport: Potential impacts on athletic performance. *European Journal of Sport Science*, 22(7), 955-963. [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084) [[PDF](https://decisionslab.unl.edu/pubs/marvin_etal_2020_preprint.pdf)]
 
 
 `Forthcoming`
-\*Goh, F., \*Jungck, A.C., & **Stevens, J.R.** (forthcoming). Pro tip: Screen-based payment methods increase negative feelings in consumers but do not increase tip sizes. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/yfne8) [[PDF](https://decisionslab.unl.edu/pubs/goh_etal_2020_preprint.pdf)]
-
 **Stevens, J.R.**, \*Mathias, M., \*Herridge, M., \*Hughes-Duvall, K., \*Wolff, L. M., & \*Yohe, M. (forthcoming). Do owners know how impulsive their dogs are? *Animal Behavior & Cognition* [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/hyvdq)
 
 `Preprints`
