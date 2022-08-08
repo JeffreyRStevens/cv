@@ -261,10 +261,10 @@ Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampto
 
 \*Marvin, S., \*Sorenson, K., & **Stevens, J. R.** (2022). Bringing human-animal interaction to sport: Potential impacts on athletic performance. *European Journal of Sport Science*, 22(7), 955-963. [doi:10.1080/17461391.2021.1916084](https://doi.org/10.1080/17461391.2021.1916084) [[PDF](https://decisionslab.unl.edu/pubs/marvin_etal_2020_preprint.pdf)]
 
+**Stevens, J.R.**, \*Mathias, M., \*Herridge, M., \*Hughes-Duvall, K., \*Wolff, L. M., & \*Yohe, M. (forthcoming). Do owners know how impulsive their dogs are? *Animal Behavior & Cognition*,   9(3), 261-286. [doi:10.26451/abc.09.03.02.2022](https://doi.org/10.26451/abc.09.03.02.2022)
 
-`Forthcoming`
 
-**Stevens, J.R.**, \*Mathias, M., \*Herridge, M., \*Hughes-Duvall, K., \*Wolff, L. M., & \*Yohe, M. (forthcoming). Do owners know how impulsive their dogs are? *Animal Behavior & Cognition* [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/hyvdq)
+<!-- `Forthcoming` -->
 
 `Preprints`
 \*Goh, F. & **Stevens, J.R.** (2022). 	Social influences on similarity judgments and intertemporal choice. [preprint at  *PsyArXiv*](https://doi.org/10.31234/osf.io/xz68b) [[PDF](https://decisionslab.unl.edu/pubs/goh_stevens_2022.pdf)]
