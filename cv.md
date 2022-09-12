@@ -379,6 +379,9 @@ ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne,
 
  "They affect us, we affect them: reciprocal relations between dog and human psychology", Anthrozoology Program, Evergreen State College, Olympia, WA \[via Zoom\]
 
+`2022`
+ "Mechanisms of impulsivity in humans and other animals", Cognitive Science Program, University of Arizona, Tucson, AZ
+ 
 ### Conference
 
 `2002`
