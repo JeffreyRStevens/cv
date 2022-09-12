@@ -283,13 +283,16 @@ Miller, R., Lambert, M. L., Frohnwieser, A., Brecht, K. F., Bugnyar, T., Crampto
 
 <!-- `Forthcoming` -->
 `Preprints`
-\*Goh, F. & **Stevens, J.R.** (2022). 	Social influences on similarity judgments and intertemporal choice. [preprint at  *PsyArXiv*](https://doi.org/10.31234/osf.io/xz68b) [[PDF](https://decisionslab.unl.edu/pubs/goh_stevens_2022.pdf)]
+\*Goh, F. & **Stevens, J.R.** (2022). 	Social influences on similarity judgments and intertemporal choice. [preprint at  _PsyArXiv_](https://doi.org/10.31234/osf.io/xz68b) [[PDF](https://decisionslab.unl.edu/pubs/goh_stevens_2022.pdf)]
 
 Höchsmann, C., Becksford, S.E., French, J.A., Boron, J.B., **Stevens, J.R.**, & Koehler, K. (2022). Biological and behavioral predictors of compensatory energy intake after exercise. [preprint at *Research Square*](https://doi.org/10.21203/rs.3.rs-1414640/v1) [[PDF](https://decisionslab.unl.edu/pubs/hochsmann_etal_2022_preprint.pdf)]
 
-ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/f86jq) [[PDF](https://decisionslab.unl.edu/pubs/manydogs_2021_preprint.pdf)]
+ManyDogs Project, Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S.-E., Espinosa, J., Gnanadesikan, G., Guran, C.-N.A., Hare, E., Horschler, D., Huber, L., Kuhlmeier, V.A., MacLean, E., Pelgrim, M.H., Perez, B., Ravid-Schurr, D., Rothkoff, L., Sexton, C., Silver, Z., & **Stevens, J.R.** (2022). ManyDogs Project: A big team science approach to investigating canine behavior and cognition. [preprint at _PsyArXiv_](https://doi.org/10.31234/osf.io/j82uc).
 
-**Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021). Framing attributes in similarity judgments and intertemporal choices. [preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/csnqv) [[PDF](https://decisionslab.unl.edu/pubs/stevens_etal_2021.pdf)]
+ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne, M., Freeman, M. S., Gnanadesikan, G., Guran, C.-N. A., Horschler, D., Huber, L., Johnston, A., MacLean, E., Pelgrim, M. H., Santos, L., Silver, Z. A., **Stevens, J. R.**, Völter, C., & Zipperling, L. (2021). ManyDogs 1: A multi-lab replication study of dogs’ pointing comprehension. Stage 1 registered report at *Animal Behavior & Cognition*. [preprint at _PsyArXiv_](https://doi.org/10.31234/osf.io/f86jq) [[PDF](https://decisionslab.unl.edu/pubs/manydogs_2021_preprint.pdf)]
+
+**Stevens, J.R.**, \*Cully, T., & \*Goh, F.W. (2021). Framing attributes in similarity judgments and intertemporal choices. [preprint at _PsyArXiv_](https://doi.org/10.31234/osf.io/csnqv) [[PDF](https://decisionslab.unl.edu/pubs/stevens_etal_2021.pdf)]
+
 
 
 ## Presentations
@@ -521,6 +524,11 @@ ManyDogs Project, Espinosa, J., Bray, E., Buchsbaum, D., Byosiere, S.-E., Byrne,
 
 "Effects of human-animal interactions on affect and cognition", Thayer, E.R. & **Stevens, J.R.**, International Society for Anthrozoology (virtual conference talk)."
 
+`2022`
+"Excluding online data in R with the excluder package", **Stevens, J.R.**, Society for the Improvement of Psychological Science (virtual conference talk).
+
+"The ManyDogs Project: A big team science approach to canine cognition", **Stevens, J.R.**, International Society for Anthrozoology (virtual conference talk).
+
 ### Tutorials
 
 `2013`
@@ -644,6 +652,8 @@ Instructor, *Perspectives in Psychology, Psyc 440/840*---University of Nebraska 
 Instructor, *Animal Learning & Cognition, Psyc 461/861*---University of Nebraska (2019)
 
 Instructor, *Data Science and Visualization in R*, Psyc 492/971*---University of Nebraska (2021)
+
+Instructor, *Controversial Issues in Psychology*, Psyc 440/840*---University of Nebraska (2022)
 
 ## Summer Schools and Workshops
 
@@ -835,6 +845,8 @@ Department of Psychology Executive Committee, University of Nebraska-Lincoln
 
 `2022` Organizer of Nebraska Symposium on Motivation on Canine Cognition and the Human Bond, University of Nebraska-Lincoln
 
+ Chair of search committee for applied cognitive psychologist, University of Nebraska-Lincoln
+
 ## Honors and Awards
 
 `1996` Phi Beta Kappa National Honor Society, Baylor University
@@ -863,7 +875,7 @@ Developer of R package [excluder](https://docs.ropensci.org/excluder/), which fa
 
 ### flashr
 
-Developer of R package [flashr](https://github.com/JeffreyRStevens/flashr/), which creates flashcards for learning terms and descriptions.
+Developer of R package [flashr](https://jeffreyrstevens.github.io/flashr/), which creates flashcards for learning terms and descriptions.
 
 ### prereg
 Contributor to R package [prereg](https://github.com/crsh/prereg), which provides R Markdown templates that facilitate authoring preregistrations of scientific studies in PDF format.
